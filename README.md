@@ -1,6 +1,5 @@
 # Textutils.in
 							TEXTUTILS.IN
-                                                    ----------------
 This is a text editor website create by using Django Framework
 
 In this website i also use the bootstrap which is a library of html,css,and javascript to give a better look to it
