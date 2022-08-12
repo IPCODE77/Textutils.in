@@ -1,9 +1,14 @@
 # Textutils.in
-                                                              TEXTUTILS.IN
-                                                             ----------------
+							TEXTUTILS.IN
+                                                       ----------------
 This is a text editor website create by using Django Framework
-In this website i also use the bootstrap which is a library of html,css,and javascript to give a better look it
-There is a textarea present in it ,when a user enter some text then he is able to try some action like Remove punctuation like remove the (. , / ' " ; ] [ } { \ |) etc from a string
+
+In this website i also use the bootstrap which is a library of html,css,and javascript to give a better look to it
+
+There is a textarea present in it ,when a user enter some text then he is able to try some action like
+
+Remove punctuation like remove the (. , / ' " ; ] [ } { \ |) etc from a string
+
   captalige a string means the first letter of all the word must be capital method -- string.title()
   
   Uppercase to a sting means all the character of the string is in capital letter methos--- string.upper()
@@ -29,6 +34,6 @@ There is a textarea present in it ,when a user enter some text then he is able t
 				i
 				am
 				IPCODE77
-	After click the remove extra line action the string looks like this newstring=Hiii i ma IPCODE77			
+	After click the remove extra line action the string looks like this newstring=Hiii i am IPCODE77			
 	
   ![Screenshot (82)](https://user-images.githubusercontent.com/89587666/184400176-9ea251ae-946e-4e3c-a617-75b3725723fd.png)
